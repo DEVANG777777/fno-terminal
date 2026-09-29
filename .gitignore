@@ -1,0 +1,38 @@
+# Environment & Sensitive Credentials (NEVER commit secrets!)
+.env
+.env.*
+!.env.example
+
+# Node dependencies & build artifacts
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+assets/
+*.local
+
+# Python cache & local data
+__pycache__/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+backend/cache/
+backend/scrip_master_cache.json
+*.jsonl
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
