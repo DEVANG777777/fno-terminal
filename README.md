@@ -1,7 +1,7 @@
 # F&O Analysis Terminal (ડેરિવેટિવ એનાલિસિસ ટર્મિનલ)
 
 > **High-Speed F&O Crosshair Scanner with Automated ATM & Option Selection**  
-> નિર્માણ: Phase 1 — Frontend & Core Simulation Engine (Ready & Live)
+> **[📖 Angel One SmartAPI Setup Guide (એકાઉન્ટ કેવી રીતે જોડવું)](ANGEL_ONE_SETUP.md)**
 
 ---
 
